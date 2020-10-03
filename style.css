@@ -94,12 +94,12 @@ h1:hover span:nth-child(2){
 }
 
 h1:hover span{
-	color: black;
+	color: #fff;
 
 	text-shadow: 0 0 10px magenta,
-				 0 0 20px #fff,
+				 0 0 20px black,
 				 0 0 40px darkblue,
-				 0 0 80px #fff,
+				 0 0 80px black,
 				 0 0 120px blue;
 				 
 				 
